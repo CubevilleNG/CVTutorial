@@ -1,0 +1,13 @@
+name: CVTutorial
+version: 1.0
+main: org.cubeville.cvtutorial.CVTutorial
+description: Tutorial plugin
+author: RandomRob13
+
+commands:
+  finish:
+    description: Applies the held block to your head.
+    usage: /finish
+  help:
+    description: blah
+    usage: /help

@@ -1,0 +1,6 @@
+commands:
+  help:
+  - "§cHELP - Page 1 of 2 §r| §7/help <page>"
+  - "\n- §4THIS IS A COMMAND REFERENCE LIST"
+  - "\n- /kill will kill you. Only you. No one else."
+  - "\n- /who to see who is online (staff are in color)"
