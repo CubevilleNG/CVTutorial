@@ -6,8 +6,14 @@ author: RandomRob13
 
 commands:
   finish:
-    description: Applies the held block to your head.
+    description: Brings you to spawn if all tut commands were typed.
     usage: /finish
   help:
-    description: blah
-    usage: /help
+    description: 
+    usage: /help 1, /help 2, /help we, /help we tut, /help lwc
+  faq:
+    description: Frequently Asked Questions
+    usage: /faq, /faq 2
+  rules:
+    description: Rules for the server
+    usage: /rules, /rules 2
